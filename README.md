@@ -1,2 +1,3 @@
 # Sprint-2
-Resum dels coneixements d'sql
+Exercicis per reforçar coneixements d'sql
+Corretgit peer to peer: Joseph Tapia
